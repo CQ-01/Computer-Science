@@ -4,7 +4,7 @@
 
 ## Why Git & Github?
 ---
-![Git](%EA%B9%83.png)
+![Git](img/git.png)
 
 ### Git
 - 분산 버전 관리
