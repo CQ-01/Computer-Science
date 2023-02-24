@@ -77,3 +77,49 @@ ___
 ---
 ***
 ___
+
+### **특수문자**
+>'$ $' 사이에 입력하기
+
+#### 수학기호
+
+|사용법|반환|
+|--|--|
+|\ge|$\ge$|
+|\le|$\le$|
+|\cap|$\cap$|
+|\cup|$\cup$|
+|\times|$\times$|
+|\div|$\div$|
+|_{5}\mathrm{C}_{3}|$_{5}\mathrm{c}_{3}$|
+|_{5}\mathrm{P}_{3}|$_{5}\mathrm{P}_{3}$|
+|P(A ,B)|$P(A, B)$|
+
+#### 그리스 문자
+|사용법|반환|
+|--|--|
+|\alpha|$\alpha$|
+|\beta|$\beta$|
+|\gamma|$\gamma$|
+|\delta|$\delta$|
+|\omega|$\omega$|
+
+#### 화살표
+|사용법|반환|
+|--|--|
+|\uparrow|$\uparrow$|
+|\downarrow|$\downarrow$|
+|\rightarrow|$\rightarrow$|
+|\leftarrow|$\leftarrow$|
+|\Uparrow|$\Uparrow$|
+|\Downarrow|$\Downarrow$|
+|\Rightarrow|$\Rightarrow$|
+|\Leftarrow|$\Leftarrow$|
+|\leftrightarrow|$\leftrightarrow$|
+
+#### 지수
+|사용법|반환|
+|--|--|
+|2^{10}|$2^{10}$|
+|2_{10}|$2_{10}$|
+|2^{_3^2}|$2^{_3^2}$|
