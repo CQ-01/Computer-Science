@@ -128,3 +128,4 @@ ___
 |사용법|반환|
 |--|--|
 |\<span style="color : red">red\</span>|<span style="color : red">red</span>|
+|\<span style="background-color:red">red\</span>|<span style="background-color:red">bg_red</span>|
