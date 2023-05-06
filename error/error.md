@@ -1,3 +1,7 @@
+### 다른 변경사항과의 충돌 오류
+- bash창에서 linux 커맨드를 이용하여 적용할 branch 선택하여 해결
+- 먼저 git pull로 원격 저장소 파일을 내려받아 해결
+
 ### push, commit등 동작이 없는 오류
 ```bash
 Another git process seems to be running in this repository
