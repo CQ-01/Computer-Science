@@ -13,8 +13,10 @@ Another git process seems to be running in this repository
 
 ### 용량 제한 오류
 - 100mb 이상의 파일 push 할때 깃허브 에러 발생
-- Git LFS 기능 활용 시도 결과 실패
-  - .gitignore 파일 확장자 문제?
+- Git LFS 기능 활용 시도 결과 성공
+  - Git LFS 다운로드
+  - 대용량 파일 .gitignore에 입력
+  - `git lfs track "폴더경로"`
 
 ### 로컬에 없는 데이터를 push 하려는 오류
 - 로컬 파일 및 커밋 내의 파일 삭제 커맨드 입력결과 실패
